@@ -2,8 +2,6 @@
     "name": "joshavg/sonar-runner",
     "description": "Sonar Runner binaries to work with Packagist - fork of neuralys/sonar-runner",
     "type": "library",
-
-    "bin": ["bin/sonar-scanner"],
     
     "authors": [
         {
