@@ -1,12 +1,17 @@
 {
-    "name": "neuralys/sonar-runner",
-    "description": "Sonar Runner binaries to work with Packagist",
+    "name": "joshavg/sonar-runner",
+    "description": "Sonar Runner binaries to work with Packagist - fork of neuralys/sonar-runner",
     "type": "library",
+
+    "bin": ["bin/sonar-runner"],
     
     "authors": [
         {
             "name": "Nicolas BELIN",
             "email": "nico@neuralys.com"
+        },
+        {
+            "name": "Josha von Gizycki"
         }
     ]
 }
