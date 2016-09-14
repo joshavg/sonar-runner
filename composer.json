@@ -3,7 +3,7 @@
     "description": "Sonar Runner binaries to work with Packagist - fork of neuralys/sonar-runner",
     "type": "library",
 
-    "bin": ["bin/sonar-runner"],
+    "bin": ["bin/sonar-scanner"],
     
     "authors": [
         {
